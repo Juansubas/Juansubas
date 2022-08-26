@@ -27,13 +27,14 @@ export const Life = ()=>{
 ```
 
 ---
-
+<!---
 ### 👨‍💻 About me:
 
 - 🔭 I’m currently working on <a href="https://www.tirgycompany.com"> Tirgy Company</a> as a CTO and <a href="https://www.misiontic2022.gov.co/portal/">MisionTic 2022</a> program as a Software Development Trainer
 - 🌱 I’m currently learning Machine learning
 - 📫 How to reach me: dario.p08@tirgycompany.com
 ### 💬 Ask me about
+--->
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/-Angular%20-red">
